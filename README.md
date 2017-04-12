@@ -4,19 +4,19 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(April, 12, 2017)
 
 ### Student Name:  
-(First and Last Name)
+Helei Gomariz
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+Creating a movie database that gathers information from other internet sources.
 
 ### View Project:
 (Replace this statement with your Github Page URL that was created when you 
  published the project.)
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. AJAX is used to load new information immediately to a browser without having to refresh the page.
+2. JSON is an extension of JavaScript and used to transmit data between a server and web applications.
+3. POST and GET are the two types of requests. 
