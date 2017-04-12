@@ -13,8 +13,7 @@ Helei Gomariz
 Creating a movie database that gathers information from other internet sources.
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+ https://heleirious.github.io/lesson8_ajax/
 
 ### Lessons Learned in the Assignment:
 1. AJAX is used to load new information immediately to a browser without having to refresh the page.
